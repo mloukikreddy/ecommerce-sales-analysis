@@ -2,31 +2,31 @@
 
 ## 🚀 Project Overview
 
-This project delivers a complete **end-to-end data analysis solution** for an e-commerce business using **Python, SQL, Excel, and Power BI**.
+This project presents a complete **end-to-end data analytics solution** for an e-commerce business using **Python, SQL, Excel, and Power BI**.
 
-It focuses on transforming raw transactional data into **actionable business insights** through data cleaning, analysis, and interactive dashboard visualization.
+The project transforms raw transactional data into **actionable insights** through data cleaning, analysis, and interactive dashboards to support business decision-making.
 
 ---
 
 ## 🎯 Problem Statement
 
-E-commerce platforms generate massive amounts of data, but extracting meaningful insights is challenging.
+E-commerce businesses generate large-scale data but struggle to extract meaningful insights.
 
-This project addresses:
+This project solves:
 
-* Monitoring revenue performance and trends
-* Understanding customer purchasing behavior
-* Identifying delivery inefficiencies
-* Enabling data-driven decision-making
+* Revenue tracking and trend analysis
+* Customer behavior understanding
+* Delivery performance evaluation
+* Data-driven decision-making
 
 ---
 
 ## 🛠️ Tools & Technologies
 
-* **Python** → Data Cleaning & Preprocessing
-* **SQL** → Data Extraction & Aggregation
-* **Excel** → Initial Data Handling
-* **Power BI** → Dashboard & Visualization
+* **Python** → Data Cleaning & EDA
+* **SQL** → Data Extraction & Analysis
+* **Excel** → Data Preprocessing
+* **Power BI** → Interactive Dashboard
 
 ---
 
@@ -34,12 +34,10 @@ This project addresses:
 
 ```
 E-commerce-Sales-Analysis/
-│── data/                
-│── output/              
-│── notebooks/           
-│── sql/                 
-│── dashboard/           
-│── images/              
+│── images/              # Dashboard screenshots
+│── output/              # Processed data (CSV)
+│── ecommerce_eda.ipynb  # Python analysis
+│── ecommerce_report.xlsx
 │── README.md
 │── .gitignore
 ```
@@ -82,22 +80,21 @@ E-commerce-Sales-Analysis/
 
 ![Revenue](images/monthly_revenue_trend.png)
 
-
 ---
 
 ## 📊 Business Insights
 
-* Customers with higher review scores tend to receive faster deliveries
-* Credit cards dominate as the primary payment method
-* Certain states contribute significantly higher revenue
+* Faster deliveries are strongly associated with higher customer review scores
+* Credit cards are the dominant payment method
+* Certain states contribute a major portion of total revenue
 * Delivery delays negatively impact customer satisfaction
-* Seasonal trends observed in monthly revenue
+* Monthly revenue shows clear trend patterns
 
 ---
 
 ## 🧠 Skills Demonstrated
 
-* Data Cleaning & Transformation
+* Data Cleaning & Transformation (Python, Excel)
 * SQL Querying & Aggregation
 * Data Visualization (Power BI)
 * KPI Design & Business Analysis
@@ -113,26 +110,20 @@ E-commerce-Sales-Analysis/
 git clone https://github.com/mloukikreddy/ecommerce-sales-analysis.git
 ```
 
-### 2. Navigate to folder
+### 2. Open project
 
-```
-cd ecommerce-sales-analysis
-```
-
-### 3. Run components
-
-* Execute Python scripts / notebooks
-* Run SQL queries
-* Open Power BI dashboard (.pbix)
+* Run Python notebook (`ecommerce_eda.ipynb`)
+* Execute SQL queries
+* Open Power BI dashboard
 
 ---
 
 ## 💡 Future Improvements
 
-* Deploy dashboard on Power BI Service
+* Deploy dashboard using Power BI Service
 * Add real-time data pipeline
-* Integrate ML for sales prediction
-* Automate ETL process
+* Apply machine learning for sales prediction
+* Build automated ETL workflow
 
 ---
 
@@ -145,10 +136,8 @@ Aspiring Data Analyst | Python | SQL | Power BI | Excel
 
 ## ⭐ Support
 
-If you found this useful:
+If you like this project:
 
-* ⭐ Star this repository
+* ⭐ Star the repository
 * 🍴 Fork it
-* 📢 Share with others
-
----
+* 📢 Share it
