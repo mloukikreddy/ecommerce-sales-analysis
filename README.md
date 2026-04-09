@@ -1,31 +1,31 @@
-# 📊 E-commerce Sales Performance Dashboard
+# 📊 End-to-End E-commerce Sales Analysis & Dashboard
 
 ## 🚀 Project Overview
 
-This project presents an end-to-end **E-commerce Sales Analysis** solution designed to uncover key business insights from transactional data. It combines **Python, SQL, Excel, and Power BI** to analyze sales performance, customer behavior, and operational efficiency.
+This project delivers a complete **end-to-end data analysis solution** for an e-commerce business using **Python, SQL, Excel, and Power BI**.
 
-The goal is to help businesses make **data-driven decisions** by tracking important KPIs and identifying trends.
+It focuses on transforming raw transactional data into **actionable business insights** through data cleaning, analysis, and interactive dashboard visualization.
 
 ---
 
 ## 🎯 Problem Statement
 
-E-commerce businesses generate large volumes of data but often struggle to extract meaningful insights.
+E-commerce platforms generate massive amounts of data, but extracting meaningful insights is challenging.
 
-This project solves:
+This project addresses:
 
-* How to track revenue performance over time
-* How to analyze customer purchasing behavior
-* How to identify delivery inefficiencies
-* How to improve business decision-making using dashboards
+* Monitoring revenue performance and trends
+* Understanding customer purchasing behavior
+* Identifying delivery inefficiencies
+* Enabling data-driven decision-making
 
 ---
 
 ## 🛠️ Tools & Technologies
 
-* **Python** → Data Cleaning & Processing
-* **SQL** → Data Extraction & Querying
-* **Excel** → Data Preprocessing
+* **Python** → Data Cleaning & Preprocessing
+* **SQL** → Data Extraction & Aggregation
+* **Excel** → Initial Data Handling
 * **Power BI** → Dashboard & Visualization
 
 ---
@@ -33,15 +33,15 @@ This project solves:
 ## 📂 Project Structure
 
 ```
-E-commerce-Sales-Performance-Dashboard/
-│── data/                # Raw / sample dataset
-│── output/              # Processed data (RFM, metrics)
-│── notebooks/           # Python analysis (if any)
-│── sql/                 # SQL queries
-│── dashboard/           # Power BI file (.pbix)
-│── images/              # Dashboard screenshots
-│── .gitignore
+E-commerce-Sales-Analysis/
+│── data/                
+│── output/              
+│── notebooks/           
+│── sql/                 
+│── dashboard/           
+│── images/              
 │── README.md
+│── .gitignore
 ```
 
 ---
@@ -52,36 +52,47 @@ E-commerce-Sales-Performance-Dashboard/
 * 📦 Total Orders
 * 📊 Average Order Value (AOV)
 * 🚚 Average Delivery Time
-* ⭐ Customer Review Score (%)
+* ⭐ Customer Review Score
 
 ---
 
-## 📊 Dashboard Features
+## 📊 Dashboard Screenshots
 
-* Revenue trends over time
-* Top-selling product categories
-* Customer segmentation (RFM analysis)
-* Delivery performance insights
-* Interactive filters for dynamic analysis
+### 📊 Power BI Dashboard
+
+![Dashboard](images/powerbi_page3.png)
+
+### 🚚 Delivery Performance Analysis
+
+![Delivery](images/Delivery%20Score.png)
+
+### 💳 Payment Method Distribution
+
+![Payment](images/Payment%20method.png)
+
+### 📈 Monthly Revenue Trend
+
+![Revenue](images/monthly_revenue_trend.png)
 
 ---
 
-## 🔍 Key Insights
+## 📊 Business Insights
 
-* Identified high-value customers using **RFM segmentation**
-* Found peak sales periods and seasonal trends
-* Analyzed delivery delays impacting customer satisfaction
-* Highlighted top-performing categories driving revenue
+* Customers with higher review scores tend to receive faster deliveries
+* Credit cards dominate as the primary payment method
+* Certain states contribute significantly higher revenue
+* Delivery delays negatively impact customer satisfaction
+* Seasonal trends observed in monthly revenue
 
 ---
 
-## 📷 Dashboard Preview
+## 🧠 Skills Demonstrated
 
-*(Add your screenshots in the images folder and link them here)*
-
-```
-![Dashboard Screenshot](images/dashboard.png)
-```
+* Data Cleaning & Transformation
+* SQL Querying & Aggregation
+* Data Visualization (Power BI)
+* KPI Design & Business Analysis
+* Dashboard Development
 
 ---
 
@@ -93,54 +104,42 @@ E-commerce-Sales-Performance-Dashboard/
 git clone https://github.com/mloukikreddy/ecommerce-sales-analysis.git
 ```
 
-### 2. Navigate to project folder
+### 2. Navigate to folder
 
 ```
 cd ecommerce-sales-analysis
 ```
 
-### 3. Install dependencies (if using Python)
+### 3. Run components
 
-```
-pip install -r requirements.txt
-```
-
-### 4. Run analysis / open dashboard
-
-* Open Power BI file (.pbix)
+* Execute Python scripts / notebooks
 * Run SQL queries
-* Execute Python scripts
+* Open Power BI dashboard (.pbix)
 
 ---
 
 ## 💡 Future Improvements
 
-* Deploy dashboard on cloud (Power BI Service)
+* Deploy dashboard on Power BI Service
 * Add real-time data pipeline
-* Integrate machine learning for sales prediction
-* Build automated ETL pipeline
+* Integrate ML for sales prediction
+* Automate ETL process
 
 ---
 
 ## 👨‍💻 Author
 
 **LouKik Reddy**
-
-* Aspiring Data Analyst
-* Skilled in Python, SQL, Power BI, Excel
+Aspiring Data Analyst | Python | SQL | Power BI | Excel
 
 ---
 
-## ⭐ Show Your Support
+## ⭐ Support
 
-If you like this project:
+If you found this useful:
 
-* ⭐ Star the repo
+* ⭐ Star this repository
 * 🍴 Fork it
 * 📢 Share with others
 
 ---
-
-## 📬 Contact
-
-Feel free to connect for opportunities and collaborations!
