@@ -58,7 +58,15 @@ E-commerce-Sales-Analysis/
 
 ## 📊 Dashboard Screenshots
 
-### 📊 Power BI Dashboard
+### 📊 Power BI Dashboard – Overview
+
+![Dashboard](images/powerbi_page1.png)
+
+### 📊 Power BI Dashboard – Detailed Insights
+
+![Dashboard](images/powerbi_page2.png)
+
+### 📊 Power BI Dashboard – Advanced Analytics
 
 ![Dashboard](images/powerbi_page3.png)
 
@@ -73,6 +81,7 @@ E-commerce-Sales-Analysis/
 ### 📈 Monthly Revenue Trend
 
 ![Revenue](images/monthly_revenue_trend.png)
+
 
 ---
 
