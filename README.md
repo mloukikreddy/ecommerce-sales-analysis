@@ -127,9 +127,10 @@ You can download it from:
 ## ▶️ How to Run the Project
 
 ### 1. Clone the Repository
+```bash
+git clone https://github.com/mloukikreddy/ecommerce-sales-analysis.git
 
-    git clone https://github.com/mloukikreddy/ecommerce-sales-analysis.git
-
+```
 ### 2. Open Project
 
 - Run the Jupyter Notebook (`ecommerce_eda.ipynb`)
