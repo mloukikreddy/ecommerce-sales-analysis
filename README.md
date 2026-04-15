@@ -124,9 +124,53 @@ You can download it from:
 - End-to-End Data Pipeline Thinking  
 
 ---
-
 ## ▶️ How to Run the Project
 
 ### 1. Clone the Repository
-```bash
-git clone https://github.com/mloukikreddy/ecommerce-sales-analysis.git
+
+    git clone https://github.com/mloukikreddy/ecommerce-sales-analysis.git
+
+### 2. Open Project
+
+- Run the Jupyter Notebook (`ecommerce_eda.ipynb`)
+- Execute SQL queries
+- Open Power BI dashboard
+
+---
+
+## 💡 Future Improvements
+
+- 🚀 Deploy dashboard using Power BI Service  
+- 🔄 Build automated ETL pipeline  
+- 🤖 Apply machine learning for sales prediction  
+- 📡 Integrate real-time data pipelines  
+
+---
+
+## 👨‍💻 Author
+
+**LouKik Reddy**  
+Aspiring Data Analyst  
+
+- 🐍 Python | 🗄️ SQL | 📊 Power BI | 📉 Excel  
+
+---
+
+## ⭐ Support
+
+If you found this project useful:
+
+- ⭐ Star the repository  
+- 🍴 Fork it  
+- 📢 Share it  
+
+---
+
+## 📬 Contact
+
+Feel free to connect with me on LinkedIn for opportunities and collaborations.
+---
+
+## 📬 Contact
+
+Feel free to connect with me on LinkedIn for opportunities and collaborations.
