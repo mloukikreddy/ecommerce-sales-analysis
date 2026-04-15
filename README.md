@@ -170,8 +170,3 @@ If you found this project useful:
 ## 📬 Contact
 
 Feel free to connect with me on LinkedIn for opportunities and collaborations.
----
-
-## 📬 Contact
-
-Feel free to connect with me on LinkedIn for opportunities and collaborations.
