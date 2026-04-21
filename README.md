@@ -150,7 +150,7 @@ git clone https://github.com/mloukikreddy/ecommerce-sales-analysis.git
 
 ## 👨‍💻 Author
 
-**LouKik Reddy**  
+**LouKik Reddy Mekala**  
 Aspiring Data Analyst  
 
 - 🐍 Python | 🗄️ SQL | 📊 Power BI | 📉 Excel  
